@@ -1,1 +1,1 @@
-Hello Artifactory and Sonar
+Hello, this is an example of a minor change
